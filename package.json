@@ -13,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/Polyphorm/PolyphormModels/issues"
   },
-  "homepage": "https://github.com/Polyphorm/PolyphormModels#readme"
+  "homepage": "https://github.com/Polyphorm/PolyphormModels#readme",
+  "devDependencies": {
+    "@polyphorm/eslint-config": "^1.0.0"
+  }
 }
